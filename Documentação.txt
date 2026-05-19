@@ -1,0 +1,15 @@
+Projeto: ZenVerse – Parque Virtual de Relaxamento
+Autor: Evilis Glenio Teixeira Gomes
+Trilha: 1
+
+Objetivo: Fiz esse parque com o objetivo de criar um espaço imersivo para relaxamento e redução do estresse, permitindo que o usuário explore um ambiente tranquilo inspirado em bosques e parques tranquilos.
+
+Descrição do Ambiente: Um parque de 30x30 com arvores, pedras, arbustos, um pequeno lago central e bancos ao redor. A iluminação será suave, simulando uma tarde ensolarada com bastante nuvens.
+
+Aprendizado: Compreendi que ambientes virtuais podem ser usados para promover relaxamento e bem-estar.
+
+Dificuldades: O processo de terra formação foi bem difícil, tive que assistir vídeos no YouTube para desenrolar. E tive problemas com o simulador que ficou bugando quando tentei testar.
+
+Melhorias: Pretendo adicionar som, e colocar um fundo de montanhas ou coisas mais naturais, tbm algumas iterações, como pesca no laguinho.
+
+Link do repositório no GitHub: https://github.com/EvilisGlenio/projeto-vr-evilis-gomes-irede-metaverso
