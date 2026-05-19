@@ -6,6 +6,14 @@ ZenVerse é um parque virtual de relaxamento desenvolvido em Unity como parte da
 
 O ambiente foi construído com inspiração em bosques e parques tranquilos, reunindo elementos naturais para criar uma experiência visual acolhedora em realidade virtual.
 
+## Imagens do projeto
+
+![Visão geral do ambiente](<Assets/images/Image1.jpeg>)
+
+![Vista do lago e da vegetação](<Assets/images/Image2.jpeg>)
+
+![Cena do projeto no editor da Unity](<Assets/images/Image3.jpeg>)
+
 Principais elementos do cenário:
 
 - Terreno de aproximadamente `30x30`
